@@ -8,12 +8,6 @@ import Blog from "../../models/blog";
 
 const api = supertest(app);
 
-/* * * The ES6 Import Syntax generates issues with Jest Test:
-https://github.com/facebook/jest/issues/2081
-To get Jest Tests work, jest.config.js file has been modified as
-described in the GitHub link above.
-npm test -- tests/note_api.test.js * * */
-
 // Before all tests
 beforeEach(async () => {
   // Delete all Users previously created from test-Database

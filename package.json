@@ -2,14 +2,29 @@
   "name": "part7-03-blogslist-backend-extension",
   "version": "0.0.0",
   "private": true,
+  "@comment scripts": {
+    "test": [
+      "Jest Testing purpose",
+      "'--experimental-vm-modules node_modules/jest/bin/jest.js' is used for Jest to work with ES6 modules (import/export)",
+      "jest.config.js file has been modified as described in the link below.",
+      "cf. https://jestjs.io/docs/en/ecmascript-modules",
+      "To run Jest tests --> 'npm test' or 'npm test -- folder/filename.test.js'"
+    ],
+    "start:test": [
+      "For Front-End - E2E - Cypress Testing purpose",
+      "Unlike the backend integration tests, Cypress tests do not start the system when they are run",
+      "So the script 'start:test' is equal to the script 'start', except that that NODE_ENV is set to test",
+      "cf. https://fullstackopen.com/en/part5/end_to_end_testing"
+    ]
+  },
   "scripts": {
-    "start": "cross-env NODE_ENV=production node index.js",
-    "dev": "cross-env NODE_ENV=development nodemon index.js",
+    "start": "cross-env NODE_ENV=production node server.js",
+    "dev": "cross-env NODE_ENV=development nodemon server.js",
     "deploy": "git push heroku master",
     "deploy:full": "git add . && git commit -m uibuild && npm run deploy",
     "logs:prod": "heroku logs --tail",
     "test": "cross-env NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
-    "start:test": "cross-env NODE_ENV=test node --experimental-vm-modules  index.js"
+    "start:test": "cross-env NODE_ENV=test node --experimental-vm-modules  server.js"
   },
   "dependencies": {
     "@types/jest": "^26.0.12",
@@ -31,8 +46,6 @@
     "morgan": "~1.9.1"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.11.5",
-    "babel-jest": "^26.3.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-node": "^11.1.0",
@@ -45,8 +58,5 @@
     "stylelint-order": "^4.1.0",
     "supertest": "^4.0.2"
   },
-  "type": "module",
-  "jest": {
-    "testEnvironment": "node"
-  }
+  "type": "module"
 }

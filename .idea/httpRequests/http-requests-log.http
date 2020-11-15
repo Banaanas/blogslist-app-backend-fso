@@ -2,6 +2,46 @@ POST http://localhost:3001/api/users
 Content-Type: application/json
 
 {
+  "username": "Cyrilolo",
+  "name": "Cyril Bleu",
+  "password": "sucredorge",
+  "passwordConfirmation": "sucredorge"
+}
+
+<> 2020-11-15T023940.400.json
+
+###
+
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+  "username": "Cyrilolo",
+  "name": "Cyril Bleu",
+  "password": "sucredorge",
+  "passwordConfirmation": "sucredorge"
+}
+
+<> 2020-11-15T023255.200.json
+
+###
+
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+  "username": "Cyrilolo",
+  "name": "Cyril Bleu",
+  "password": "sucredorge",
+  "passwordConfirmation": "sucredorge"
+}
+
+###
+
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
   "username": "Cyriloolo",
   "name": "Cyrilo Papaya",
   "password": "arcoiris",
@@ -621,33 +661,6 @@ Content-Type: application/json
 }
 
 <> 2020-09-18T034505.200.json
-
-###
-
-POST http://localhost:3001/api/users
-Content-Type: application/json
-
-{
-  "username": "Cyril",
-  "name": "Cyril Bleu",
-  "password": "sucredorge"
-}
-
-<> 2020-09-18T034501.200.json
-
-###
-
-GET http://localhost:3001/api/users
-Accept: application/json
-
-<> 2020-09-18T102256.200.json
-
-###
-
-GET http://localhost:3001/api/users
-Accept: application/json
-
-<> 2020-09-18T102245.200.json
 
 ###
 

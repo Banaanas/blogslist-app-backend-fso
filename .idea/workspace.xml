@@ -22,7 +22,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="" />
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034501.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T102245.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T102256.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tests/user_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/user_api.test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +79,22 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilolo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;,&#10;  &quot;passwordConfirmation&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:3001/api/users" />
@@ -971,43 +1001,39 @@
           <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New CHNOCK&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="PUT" />
-          <option name="urlBase" value="http://localhost:3001/api/blogs/5f5703a7301cd7190bcb4b16" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New CHNOCK&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.users-requests#3">
+  <component name="RunManager" selected="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside">
     <configuration name="users-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/users-requests.http" index="3" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="users-requests#4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/users-requests.http" index="4" runType="Run single request">
+    <configuration name="Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/utils/tests/user_api.test.js" />
+      <test-names>
+        <test-name value="Supertest Library Function - Single User Request" />
+        <test-name value="if get Single User with ALL Blogs array inside" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r babel-register" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="HTTP Request.users-requests#3" />
-      <item itemvalue="HTTP Request.users-requests#4" />
+      <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
+      <item itemvalue="Node.js.app.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.users-requests#4" />
+        <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
+        <item itemvalue="Node.js.app.js" />
         <item itemvalue="HTTP Request.users-requests#3" />
       </list>
     </recent_temporary>
@@ -1069,7 +1095,8 @@
       <workItem from="1605335852411" duration="14894000" />
       <workItem from="1605421652176" duration="7309000" />
       <workItem from="1605429168257" duration="8000" />
-      <workItem from="1605429694204" duration="1722000" />
+      <workItem from="1605429694204" duration="2308000" />
+      <workItem from="1605447123311" duration="9456000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1085,7 +1112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605430990979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Http Requests added to .gitignore">
+      <created>1605431419037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605431419037</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Http Requests added to .gitignore">
+      <created>1605431638475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605431638475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1112,49 +1153,85 @@
     <option name="LAST_COMMIT_MESSAGE" value="Http Requests added to .gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1198" y="91" width="1418" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605422907514">
+    <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605452696061">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="1198" y="91" width="1418" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605422907514" />
-    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605430990916">
+    <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605452696061" />
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605431638411">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605430990916" />
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605431638411" />
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl" timestamp="1605422888203">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl/72.34.3368.1406@72.34.3368.1406" timestamp="1605422888203" />
-    <state width="1594" height="258" key="GridCell.Tab.0.bottom" timestamp="1605428962635">
+    <state width="1594" height="397" key="GridCell.Tab.0.bottom" timestamp="1605458791120">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="258" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
-    <state width="1594" height="258" key="GridCell.Tab.0.center" timestamp="1605428962635">
+    <state width="1594" height="397" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
+    <state width="1594" height="397" key="GridCell.Tab.0.center" timestamp="1605458791120">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="258" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
-    <state width="1594" height="258" key="GridCell.Tab.0.left" timestamp="1605428962634">
+    <state width="1594" height="397" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
+    <state width="1594" height="397" key="GridCell.Tab.0.left" timestamp="1605458791120">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="258" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962634" />
-    <state width="1594" height="258" key="GridCell.Tab.0.right" timestamp="1605428962635">
+    <state width="1594" height="397" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
+    <state width="1594" height="397" key="GridCell.Tab.0.right" timestamp="1605458791120">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="258" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605430997067">
+    <state width="1594" height="397" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
+    <state width="1584" height="400" key="GridCell.Tab.1.bottom" timestamp="1605448858346">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605430997067" />
-    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605429777279">
+    <state width="1584" height="400" key="GridCell.Tab.1.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.1.center" timestamp="1605448858346">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605429777279" />
-    <state x="309" y="190" width="1189" height="1210" key="find.popup" timestamp="1605430931255">
+    <state width="1584" height="400" key="GridCell.Tab.1.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.1.left" timestamp="1605448858346">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="309" y="190" width="1189" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605430931255" />
-    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605429945197">
+    <state width="1584" height="400" key="GridCell.Tab.1.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.1.right" timestamp="1605448858346">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605429945197" />
+    <state width="1584" height="400" key="GridCell.Tab.1.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.2.bottom" timestamp="1605448858346">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1584" height="400" key="GridCell.Tab.2.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.2.center" timestamp="1605448858346">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1584" height="400" key="GridCell.Tab.2.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.2.left" timestamp="1605448858346">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1584" height="400" key="GridCell.Tab.2.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state width="1584" height="400" key="GridCell.Tab.2.right" timestamp="1605448858346">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1584" height="400" key="GridCell.Tab.2.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605431642098">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605431642098" />
+    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605431913603">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605431913603" />
+    <state x="2062" y="60" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1605448658737">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="2062" y="60" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/72.34.3368.1406@72.34.3368.1406" timestamp="1605448658737" />
+    <state x="309" y="190" width="1201" height="1210" key="find.popup" timestamp="1605454466969">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="309" y="190" width="1201" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605454466969" />
+    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605458934790">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605458934790" />
   </component>
 </project>
