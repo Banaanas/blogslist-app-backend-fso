@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h5BGtxGOAQq8nSdfi5WLPJBupW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jest.config.js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyriloolo&quot;,&#10;  &quot;name&quot;: &quot;Cyrilo Papaya&quot;,&#10;  &quot;password&quot;: &quot;arcoiris&quot;,&#10;  &quot;passwordValidation&quot;: &quot;arcoiris&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyriloolo&quot;,&#10;  &quot;name&quot;: &quot;Cyrilo Papaya&quot;,&#10;  &quot;password&quot;: &quot;arcoiris&quot;,&#10;  &quot;passwordValidation&quot;: &quot;arcoirias&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilolo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;,&#10;  &quot;passwordValidation&quot;: &quot;sucredoaaarge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilolo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredoarge&quot;,&#10;  &quot;passwordValidation&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilolo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;,&#10;  &quot;passwordValidation&quot;: &quot;sucrzzedorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilolo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;,&#10;  &quot;passwordValidation&quot;: &quot;sucredoEEErge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilolo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;,&#10;  &quot;passwordValidation&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilo&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;CyrilAAAA&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY2NGI5ZTA3N2E1YzIxYjA2OWZmZWRlIiwiaWF0IjoxNjA0Mjk3NzA4fQ.7yXfR65aCpnmTaKEDngXaEm9y9gYIy26K2L8Gm1c8x0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My Green Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyrilo&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY2NGI5ZTA3N2E1YzIxYjA2OWZmZWRlIiwiaWF0IjoxNjA0Mjk3NzA4fQ.7yXfR65aCpnmTaKEDngXaEm9y9gYIy26K2L8Gm1c8x0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My Blue Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyrilo&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY2NGI5ZTA3N2E1YzIxYjA2OWZmZWRlIiwiaWF0IjoxNjA0Mjk3NzA4fQ.7yXfR65aCpnmTaKEDngXaEm9y9gYIy26K2L8Gm1c8x0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Great Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyrilo&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f64c8fd89bf6032db18a4b2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY2NGI5ZTA3N2E1YzIxYjA2OWZmZWRlIiwiaWF0IjoxNjA0Mjk3NzA4fQ.7yXfR65aCpnmTaKEDngXaEm9y9gYIy26K2L8Gm1c8x0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful UPDATED Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 100&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0YjlkZDc3YTVjMjFiMDY5ZmZlZGQiLCJpYXQiOjE2MDA0MzY3Mjl9.s6T9CJTmszUd6wn_p6rttfXvzJtXu4bPCLqwJ_s2-nY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Great Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyrilo&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyril&quot;,&#10;  &quot;name&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilo&quot;,&#10;  &quot;password&quot;: &quot;arcoiris&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/users/5f6390e43ae59d7cb23caeee" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0YjlkZDc3YTVjMjFiMDY5ZmZlZGQiLCJpYXQiOjE2MDA0MzY3Mjl9.s6T9CJTmszUd6wn_p6rttfXvzJtXu4bPCLqwJ_s2-nY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0YjlkZDc3YTVjMjFiMDY5ZmZlZGQiLCJpYXQiOjE2MDA0MzY3Mjl9.s6T9CJTmszUd6wn_p6rttfXvzJtXu4bPCLqwJ_s2-nY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyrilo&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f64ba3e77a5c21b069ffedf" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0YjlkZDc3YTVjMjFiMDY5ZmZlZGQiLCJpYXQiOjE2MDA0MzY3Mjl9.s6T9CJTmszUd6wn_p6rttfXvzJtXu4bPCLqwJ_s2-nY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful UPDATED Adventure&quot;,&#10;  &quot;author&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 100&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f64ba3e77a5c21b069ffedf" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0YjlkZDc3YTVjMjFiMDY5ZmZlZGQiLCJpYXQiOjE2MDA0MzY3Mjl9.s6T9CJTmszUd6wn_p6rttfXvzJtXu4bPCLqwJ_s2-nY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful UPDATED Adventure - &quot;,&#10;  &quot;author&quot;: &quot;Cyril Bleu&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 100&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilo&quot;,&#10;  &quot;name&quot;: &quot;Cyrilo Papaya&quot;,&#10;  &quot;password&quot;: &quot;arcoiris&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/users/5f6390e43ae59d7cb23caeee" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/users/5f6390e43ae59d7cb23caeee" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0NGFjYTc1ZGVjNjQ5ZDU3NmYxOWEiLCJpYXQiOjE2MDA0MDgyNzR9.VBPEnCuXJlPoABlBRrmTjsxCDuIi3Dy9BYR-RGJKyHU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/testing/reset" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcxNzA1fQ.dnKN2yAt9ttdUOhfh3RXv8BMLi4NGKrsr54dEu2GoZU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 1000&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcxNzA1fQ.dnKN2yAt9ttdUOhfh3RXv8BMLi4NGKrsr54dEu2GoZU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 100&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcxNzA1fQ.dnKN2yAt9ttdUOhfh3RXv8BMLi4NGKrsr54dEu2GoZU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 10&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcxNzA1fQ.dnKN2yAt9ttdUOhfh3RXv8BMLi4NGKrsr54dEu2GoZU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 100&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjU3MDI2NzMwMWNkNzE5MGJjYjRiMTAiLCJpYXQiOjE1OTk1NzExMDl9.yepfm43xY6T5eFP_IJsrEmBJnxhMeFbvlJgUppl-m2I" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 100&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjU3MDI2NzMwMWNkNzE5MGJjYjRiMTAiLCJpYXQiOjE1OTk1NzExMDl9.yepfm43xY6T5eFP_IJsrEmBJnxhMeFbvlJgUppl-m2I" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 10000&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcxNzA1fQ.dnKN2yAt9ttdUOhfh3RXv8BMLi4NGKrsr54dEu2GoZU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 10000&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyrilo&quot;,&#10;  &quot;password&quot;: &quot;irisarco&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/login" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot;: &quot;Cyril&quot;,&#10;  &quot;password&quot;: &quot;sucredorge&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 100&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 1&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New FRANO&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57830c77d3744d25c5ec9d" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New AZZ&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 10&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 1&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f57039f301cd7190bcb4b15" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New AZZ&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTcwNDc3fQ.b9hfmnLtMB-xlA-Vceh1-D1rTSTXWLrS6wbTTeUD-5M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 15&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f5781ef77d3744d25c5ec9a" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New AZZ&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;My wonderful Adventure - 10&quot;,&#10;  &quot;author&quot;: &quot;Sucre d'Orge&quot;,&#10;  &quot;url&quot;: &quot;https://sucredorge.fr&quot;,&#10;  &quot;likes&quot;: 20&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f5703a7301cd7190bcb4b16" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New AZZ&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f570334301cd7190bcb4b14" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New AZZ&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f570334301cd7190bcb4b14" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New GIBOR&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f5703a7301cd7190bcb4b16" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New GIBOR&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f570334301cd7190bcb4b14" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New CHNOCK&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:3001/api/blogs/5f5703a7301cd7190bcb4b16" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New CHNOCK&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.users-requests#3">
+    <configuration name="users-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/users-requests.http" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="users-requests#4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/users-requests.http" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.users-requests#3" />
+      <item itemvalue="HTTP Request.users-requests#4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.users-requests#4" />
+        <item itemvalue="HTTP Request.users-requests#3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="" />
+      <created>1599290981101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599290981101</updated>
+      <workItem from="1599290982144" duration="871000" />
+      <workItem from="1599292519111" duration="1000" />
+      <workItem from="1599292868066" duration="8525000" />
+      <workItem from="1599537550120" duration="32033000" />
+      <workItem from="1599626667492" duration="11470000" />
+      <workItem from="1599796291893" duration="5000" />
+      <workItem from="1599883027212" duration="3261000" />
+      <workItem from="1599971217400" duration="54000" />
+      <workItem from="1599971312308" duration="18000" />
+      <workItem from="1599999918430" duration="1526000" />
+      <workItem from="1600056635905" duration="658000" />
+      <workItem from="1600070245108" duration="3000" />
+      <workItem from="1600142457004" duration="2276000" />
+      <workItem from="1600228852440" duration="2345000" />
+      <workItem from="1600237603582" duration="3203000" />
+      <workItem from="1600276698007" duration="1006000" />
+      <workItem from="1600327061747" duration="2468000" />
+      <workItem from="1600337306968" duration="108000" />
+      <workItem from="1600407806105" duration="3486000" />
+      <workItem from="1600417975161" duration="7000" />
+      <workItem from="1600432517105" duration="31000" />
+      <workItem from="1600435675168" duration="13439000" />
+      <workItem from="1600490602061" duration="8049000" />
+      <workItem from="1600499603350" duration="20000" />
+      <workItem from="1601989329932" duration="773000" />
+      <workItem from="1602054500796" duration="1961000" />
+      <workItem from="1602068216959" duration="115000" />
+      <workItem from="1603701065084" duration="45000" />
+      <workItem from="1603733717107" duration="247000" />
+      <workItem from="1603773553894" duration="599000" />
+      <workItem from="1603777915187" duration="340000" />
+      <workItem from="1604142218076" duration="944000" />
+      <workItem from="1604295876819" duration="63000" />
+      <workItem from="1604301196492" duration="820000" />
+      <workItem from="1604302061813" duration="8000" />
+      <workItem from="1604302907004" duration="4000" />
+      <workItem from="1604326929603" duration="12000" />
+      <workItem from="1604326952448" duration="854000" />
+      <workItem from="1604382656392" duration="3599000" />
+      <workItem from="1604774016411" duration="73000" />
+      <workItem from="1604816199696" duration="96000" />
+      <workItem from="1604898904834" duration="229000" />
+      <workItem from="1605117655559" duration="52000" />
+      <workItem from="1605120391832" duration="62000" />
+      <workItem from="1605120872533" duration="285000" />
+      <workItem from="1605273923269" duration="3167000" />
+      <workItem from="1605335852411" duration="14894000" />
+      <workItem from="1605421652176" duration="7309000" />
+      <workItem from="1605429168257" duration="8000" />
+      <workItem from="1605429694204" duration="1722000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1605430616455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605430616455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Http Requests added to .gitignore">
+      <created>1605430990979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605430990979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Http Requests added to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Http Requests added to .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1198" y="91" width="1418" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605422907514">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1198" y="91" width="1418" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605422907514" />
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605430990916">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605430990916" />
+    <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl" timestamp="1605422888203">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl/72.34.3368.1406@72.34.3368.1406" timestamp="1605422888203" />
+    <state width="1594" height="258" key="GridCell.Tab.0.bottom" timestamp="1605428962635">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1594" height="258" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
+    <state width="1594" height="258" key="GridCell.Tab.0.center" timestamp="1605428962635">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1594" height="258" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
+    <state width="1594" height="258" key="GridCell.Tab.0.left" timestamp="1605428962634">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1594" height="258" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962634" />
+    <state width="1594" height="258" key="GridCell.Tab.0.right" timestamp="1605428962635">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state width="1594" height="258" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605430997067">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605430997067" />
+    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605429777279">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605429777279" />
+    <state x="309" y="190" width="1189" height="1210" key="find.popup" timestamp="1605430931255">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="309" y="190" width="1189" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605430931255" />
+    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605429945197">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605429945197" />
+  </component>
+</project>
