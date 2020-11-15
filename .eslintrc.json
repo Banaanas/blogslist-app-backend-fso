@@ -1,0 +1,47 @@
+{
+  "env": {
+    "browser": true,
+    "es2020": true,
+    "jest": true
+  },
+  "extends": ["airbnb-base"],
+  "parserOptions": {
+    "ecmaVersion": 11,
+    "sourceType": "module"
+  },
+  "rules": {
+    "quotes": [
+      1,
+      "double",
+      {
+        "avoidEscape": true
+      }
+    ],
+    // Authorize double-quote use
+    "comma-dangle": [
+      "error",
+      {
+        "arrays": "always-multiline",
+        // Comma-dangle for all MULTILINE arrays, objects,
+        "objects": "always-multiline",
+        // imports and exports.
+        "imports": "always-multiline",
+        "exports": "always-multiline",
+        "functions": "only-multiline"
+        // Comma-dangle for functions only when the developer decides
+      }
+    ],
+    "no-param-reassign": [
+      2,
+      {
+        "props": false
+      }
+    ],
+    "no-plusplus": [
+      2,
+      {
+        "allowForLoopAfterthoughts": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+### TESTING REQUEST
+
+POST http://localhost:3001/api/testing/reset
