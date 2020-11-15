@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="First Commit" />
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1069,8 +1071,16 @@
       <workItem from="1605335852411" duration="14894000" />
       <workItem from="1605421652176" duration="7309000" />
       <workItem from="1605429168257" duration="8000" />
-      <workItem from="1605429694204" duration="688000" />
+      <workItem from="1605429694204" duration="1280000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1605430616455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605430616455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1092,16 +1102,18 @@
     <ignored-roots>
       <path value="$USER_HOME$" />
     </ignored-roots>
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1198" y="91" width="1418" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605422907514">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="1198" y="91" width="1418" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605422907514" />
-    <state x="72" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605429759632">
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605430616332">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="72" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605429759632" />
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605430616332" />
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl" timestamp="1605422888203">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
@@ -1122,14 +1134,18 @@
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state width="1594" height="258" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605428962635" />
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605430971847">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605430971847" />
     <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605429777279">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605429777279" />
-    <state x="309" y="190" width="1189" height="1210" key="find.popup" timestamp="1605427727400">
+    <state x="309" y="190" width="1189" height="1210" key="find.popup" timestamp="1605430931255">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="309" y="190" width="1189" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605427727400" />
+    <state x="309" y="190" width="1189" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605430931255" />
     <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605429945197">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
