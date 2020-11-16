@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="build: Install Husky + Staged Lint" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1103,7 +1100,7 @@
       <workItem from="1605447123311" duration="9456000" />
       <workItem from="1605502038519" duration="599000" />
       <workItem from="1605519656256" duration="190000" />
-      <workItem from="1605519853674" duration="744000" />
+      <workItem from="1605519853674" duration="1447000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1133,7 +1130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605431638475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="build: Install Husky + Staged Lint">
+      <created>1605531582906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605531582906</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1157,17 +1161,19 @@
     </ignored-roots>
     <MESSAGE value="First Commit" />
     <MESSAGE value="Http Requests added to .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Http Requests added to .gitignore" />
+    <MESSAGE value="build: Install Husky + Staged Lint" />
+    <option name="LAST_COMMIT_MESSAGE" value="build: Install Husky + Staged Lint" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605452696061">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605452696061" />
-    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605431638411">
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605531642226">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605431638411" />
+    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605531642226" />
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl" timestamp="1605422888203">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
@@ -1220,10 +1226,10 @@
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state width="1584" height="400" key="GridCell.Tab.2.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605431642098">
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605531590357">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605431642098" />
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605531590357" />
     <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605431913603">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
