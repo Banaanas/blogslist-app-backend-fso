@@ -23,19 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034501.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T102245.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T102256.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/tests/user_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/user_api.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1h5BGtxGOAQq8nSdfi5WLPJBupW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -1025,13 +1017,25 @@
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r babel-register" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="HTTP Request.users-requests#3" />
       <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
       <item itemvalue="Node.js.app.js" />
+      <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
         <item itemvalue="Node.js.app.js" />
         <item itemvalue="HTTP Request.users-requests#3" />
@@ -1097,6 +1101,9 @@
       <workItem from="1605429168257" duration="8000" />
       <workItem from="1605429694204" duration="2308000" />
       <workItem from="1605447123311" duration="9456000" />
+      <workItem from="1605502038519" duration="599000" />
+      <workItem from="1605519656256" duration="190000" />
+      <workItem from="1605519853674" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1165,22 +1172,22 @@
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl/72.34.3368.1406@72.34.3368.1406" timestamp="1605422888203" />
-    <state width="1594" height="397" key="GridCell.Tab.0.bottom" timestamp="1605458791120">
+    <state width="1574" height="397" key="GridCell.Tab.0.bottom" timestamp="1605519845052">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="397" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
-    <state width="1594" height="397" key="GridCell.Tab.0.center" timestamp="1605458791120">
+    <state width="1574" height="397" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
+    <state width="1574" height="397" key="GridCell.Tab.0.center" timestamp="1605519845052">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="397" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
-    <state width="1594" height="397" key="GridCell.Tab.0.left" timestamp="1605458791120">
+    <state width="1574" height="397" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
+    <state width="1574" height="397" key="GridCell.Tab.0.left" timestamp="1605519845052">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="397" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
-    <state width="1594" height="397" key="GridCell.Tab.0.right" timestamp="1605458791120">
+    <state width="1574" height="397" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
+    <state width="1574" height="397" key="GridCell.Tab.0.right" timestamp="1605519845052">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1594" height="397" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605458791120" />
+    <state width="1574" height="397" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
     <state width="1584" height="400" key="GridCell.Tab.1.bottom" timestamp="1605448858346">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
