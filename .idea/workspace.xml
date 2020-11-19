@@ -22,7 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="build: Install Husky + Staged Lint" />
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/testing-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/testing-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,17 +58,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jest.config.js" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RestClientSettings">
@@ -1032,8 +1043,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
+        <item itemvalue="npm.start" />
         <item itemvalue="Node.js.app.js" />
         <item itemvalue="HTTP Request.users-requests#3" />
       </list>
@@ -1100,7 +1111,14 @@
       <workItem from="1605447123311" duration="9456000" />
       <workItem from="1605502038519" duration="599000" />
       <workItem from="1605519656256" duration="190000" />
-      <workItem from="1605519853674" duration="1447000" />
+      <workItem from="1605519853674" duration="1676000" />
+      <workItem from="1605538167021" duration="77000" />
+      <workItem from="1605605053095" duration="709000" />
+      <workItem from="1605690075208" duration="3479000" />
+      <workItem from="1605694461506" duration="1204000" />
+      <workItem from="1605697003916" duration="12674000" />
+      <workItem from="1605766079171" duration="6041000" />
+      <workItem from="1605773259961" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1137,7 +1155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605531582906</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="build: Install Husky + Staged Lint">
+      <created>1605532608228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532608228</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1156,44 +1181,52 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <ignored-roots>
       <path value="$USER_HOME$" />
     </ignored-roots>
     <MESSAGE value="First Commit" />
     <MESSAGE value="Http Requests added to .gitignore" />
     <MESSAGE value="build: Install Husky + Staged Lint" />
-    <option name="LAST_COMMIT_MESSAGE" value="build: Install Husky + Staged Lint" />
+    <MESSAGE value="refactor: Create Production/Development/Testing DB - Add Conditionnal Import (testingRouter)" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: Create Production/Development/Testing DB - Add Conditionnal Import (testingRouter)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2300" y="529" width="585" height="422" key="#ESLint" timestamp="1605714663596">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="2300" y="529" width="585" height="422" key="#ESLint/72.34.3368.1406@72.34.3368.1406" timestamp="1605714663596" />
     <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605452696061">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605452696061" />
-    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605531642226">
+    <state x="967" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605532814418">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="744" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605531642226" />
+    <state x="967" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605532814418" />
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl" timestamp="1605422888203">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl/72.34.3368.1406@72.34.3368.1406" timestamp="1605422888203" />
-    <state width="1574" height="397" key="GridCell.Tab.0.bottom" timestamp="1605519845052">
+    <state width="1544" height="397" key="GridCell.Tab.0.bottom" timestamp="1605630954897">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1574" height="397" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
-    <state width="1574" height="397" key="GridCell.Tab.0.center" timestamp="1605519845052">
+    <state width="1544" height="397" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
+    <state width="1544" height="397" key="GridCell.Tab.0.center" timestamp="1605630954897">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1574" height="397" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
-    <state width="1574" height="397" key="GridCell.Tab.0.left" timestamp="1605519845052">
+    <state width="1544" height="397" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
+    <state width="1544" height="397" key="GridCell.Tab.0.left" timestamp="1605630954897">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1574" height="397" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
-    <state width="1574" height="397" key="GridCell.Tab.0.right" timestamp="1605519845052">
+    <state width="1544" height="397" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
+    <state width="1544" height="397" key="GridCell.Tab.0.right" timestamp="1605630954897">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state width="1574" height="397" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605519845052" />
+    <state width="1544" height="397" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
     <state width="1584" height="400" key="GridCell.Tab.1.bottom" timestamp="1605448858346">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
@@ -1226,10 +1259,14 @@
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state width="1584" height="400" key="GridCell.Tab.2.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605531590357">
+    <state x="1407" y="34" key="SettingsEditor" timestamp="1605538193796">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605531590357" />
+    <state x="1407" y="34" key="SettingsEditor/72.34.3368.1406@72.34.3368.1406" timestamp="1605538193796" />
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605532617617">
+      <screen x="72" y="34" width="3368" height="1406" />
+    </state>
+    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605532617617" />
     <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605431913603">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
@@ -1238,13 +1275,13 @@
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
     <state x="2062" y="60" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/72.34.3368.1406@72.34.3368.1406" timestamp="1605448658737" />
-    <state x="309" y="190" width="1201" height="1210" key="find.popup" timestamp="1605454466969">
+    <state x="314" y="230" width="1201" height="1210" key="find.popup" timestamp="1605772223513">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="309" y="190" width="1201" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605454466969" />
-    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605458934790">
+    <state x="314" y="230" width="1201" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605772223513" />
+    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605773032581">
       <screen x="72" y="34" width="3368" height="1406" />
     </state>
-    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605458934790" />
+    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605773032581" />
   </component>
 </project>
