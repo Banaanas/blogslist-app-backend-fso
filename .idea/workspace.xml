@@ -23,12 +23,104 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.huskyrc" beforeDir="false" afterPath="$PROJECT_DIR$/.huskyrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034505.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034639.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034654.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034717.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034847.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044749.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044856.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044934.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T075235.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-19T085622.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-10-07T091047.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T084031.500.rt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085215.500.rt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085259.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085405.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085429.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T091410.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T081302.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T082432.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092146.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092206.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092209.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092321.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092407.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092412.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092431.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092433.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092441.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093119.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093229.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093234.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093407.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093410.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093501.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093517.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/testing-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/testing-router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tests/blog_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/blog_api.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tests/blogs-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/unit-tests/blogs-functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tests/blogs-functions.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/unit-tests/blogs-functions.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tests/helpers-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/helpers-functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/tests/user_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/user_api.test.js" afterDir="false" />
     </list>
+    <disabled>
+      <disabled_changelists>
+        <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="feat: Add .huskyrc">
+          <change beforePath="$PROJECT_DIR$/.huskyrc" beforeDir="false" afterPath="$PROJECT_DIR$/.huskyrc" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034505.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034639.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034654.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034717.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034847.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044749.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044856.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044934.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T075235.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-19T085622.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-10-07T091047.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T084031.500.rt" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085215.500.rt" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085259.400.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085405.400.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085429.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T091410.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T081302.200.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T082432.400.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092146.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092206.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092209.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092321.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092407.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092412.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092431.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092433.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092441.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093119.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093229.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093234.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093407.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093410.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093501.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093517.401.json" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/utils/tests/blog_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/blog_api.test.js" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/utils/tests/blogs-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/unit-tests/blogs-functions.js" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/utils/tests/blogs-functions.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/unit-tests/blogs-functions.test.js" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/utils/tests/helpers-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/helpers-functions.js" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/utils/tests/user_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/user_api.test.js" afterDir="false" />
+        </list>
+      </disabled_changelists>
+      <disabled_trackers />
+    </disabled>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,8 +151,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.14.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jest.config.js" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -76,9 +168,55 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utils/tests/integration-tests" />
+      <recent name="$PROJECT_DIR$/utils/tests/unit-tests" />
+    </key>
+  </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/api/testing/reset" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/testing/reset" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/testing/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:3001/api/users" />
@@ -524,13 +662,6 @@
         </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:3001/api/testing/reset" />
-          <option name="urlPath" value="" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:3001/api/blogs" />
           <option name="urlPath" value="" />
           <option name="headers">
@@ -961,51 +1092,14 @@
           <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New GIBOR&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="PUT" />
-          <option name="urlBase" value="http://localhost:3001/api/blogs/5f5703a7301cd7190bcb4b16" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New GIBOR&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="PUT" />
-          <option name="urlBase" value="http://localhost:3001/api/blogs/5f570334301cd7190bcb4b14" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New CHNOCK&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside">
-    <configuration name="users-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/users-requests.http" index="3" runType="Run single request">
+  <component name="RunManager" selected="HTTP Request.testing-requests#1">
+    <configuration name="testing-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/testing-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="testing-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/testing-requests.http" index="2" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -1022,7 +1116,14 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" node-parameters="-r babel-register" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -1036,17 +1137,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="HTTP Request.users-requests#3" />
+      <item itemvalue="HTTP Request.testing-requests#1" />
+      <item itemvalue="HTTP Request.testing-requests#2" />
       <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
-      <item itemvalue="Node.js.app.js" />
       <item itemvalue="npm.start" />
+      <item itemvalue="npm.dev" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="HTTP Request.testing-requests#1" />
+        <item itemvalue="HTTP Request.testing-requests#2" />
         <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
         <item itemvalue="npm.start" />
-        <item itemvalue="Node.js.app.js" />
-        <item itemvalue="HTTP Request.users-requests#3" />
       </list>
     </recent_temporary>
   </component>
@@ -1119,6 +1222,20 @@
       <workItem from="1605697003916" duration="12674000" />
       <workItem from="1605766079171" duration="6041000" />
       <workItem from="1605773259961" duration="302000" />
+      <workItem from="1605778156074" duration="8966000" />
+      <workItem from="1605880771115" duration="6000" />
+      <workItem from="1605880787862" duration="14000" />
+      <workItem from="1605883660570" duration="46000" />
+      <workItem from="1605947071683" duration="304000" />
+      <workItem from="1605948098564" duration="28000" />
+      <workItem from="1605957342253" duration="135000" />
+      <workItem from="1605966617462" duration="1216000" />
+      <workItem from="1606158094226" duration="539000" />
+      <workItem from="1606198807040" duration="84000" />
+      <workItem from="1606511067230" duration="17000" />
+      <workItem from="1606548479769" duration="26000" />
+      <workItem from="1606767665396" duration="276000" />
+      <workItem from="1607261690767" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1162,11 +1279,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605532608228</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refactor: Create Production/Development/Testing DB - Add Conditionnal Import (testingRouter)">
+      <created>1605775033969</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605775033969</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: Add .huskyrc">
+      <created>1606158591296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606158591296</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1189,99 +1330,11 @@
     <MESSAGE value="Http Requests added to .gitignore" />
     <MESSAGE value="build: Install Husky + Staged Lint" />
     <MESSAGE value="refactor: Create Production/Development/Testing DB - Add Conditionnal Import (testingRouter)" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: Create Production/Development/Testing DB - Add Conditionnal Import (testingRouter)" />
+    <MESSAGE value="refactor: Create Production/Development/Testing DB - Add Conditional Import (testingRouter)" />
+    <MESSAGE value="feat: Add .huskyrc" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add .huskyrc" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2300" y="529" width="585" height="422" key="#ESLint" timestamp="1605714663596">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="2300" y="529" width="585" height="422" key="#ESLint/72.34.3368.1406@72.34.3368.1406" timestamp="1605714663596" />
-    <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605452696061">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="1585" y="85" width="1611" height="1292" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.34.3368.1406@72.34.3368.1406" timestamp="1605452696061" />
-    <state x="967" y="34" width="1944" height="1406" key="CommitChangelistDialog2" timestamp="1605532814418">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="967" y="34" width="1944" height="1406" key="CommitChangelistDialog2/72.34.3368.1406@72.34.3368.1406" timestamp="1605532814418" />
-    <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl" timestamp="1605422888203">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="1478" y="268" width="848" height="945" key="FileChooserDialogImpl/72.34.3368.1406@72.34.3368.1406" timestamp="1605422888203" />
-    <state width="1544" height="397" key="GridCell.Tab.0.bottom" timestamp="1605630954897">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1544" height="397" key="GridCell.Tab.0.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
-    <state width="1544" height="397" key="GridCell.Tab.0.center" timestamp="1605630954897">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1544" height="397" key="GridCell.Tab.0.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
-    <state width="1544" height="397" key="GridCell.Tab.0.left" timestamp="1605630954897">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1544" height="397" key="GridCell.Tab.0.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
-    <state width="1544" height="397" key="GridCell.Tab.0.right" timestamp="1605630954897">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1544" height="397" key="GridCell.Tab.0.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605630954897" />
-    <state width="1584" height="400" key="GridCell.Tab.1.bottom" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.1.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.1.center" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.1.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.1.left" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.1.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.1.right" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.1.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.2.bottom" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.2.bottom/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.2.center" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.2.center/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.2.left" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.2.left/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state width="1584" height="400" key="GridCell.Tab.2.right" timestamp="1605448858346">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state width="1584" height="400" key="GridCell.Tab.2.right/72.34.3368.1406@72.34.3368.1406" timestamp="1605448858346" />
-    <state x="1407" y="34" key="SettingsEditor" timestamp="1605538193796">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="1407" y="34" key="SettingsEditor/72.34.3368.1406@72.34.3368.1406" timestamp="1605538193796" />
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2" timestamp="1605532617617">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="1793" y="216" width="1600" height="1049" key="Vcs.Push.Dialog.v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605532617617" />
-    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605431913603">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="488" y="588" width="842" height="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.34.3368.1406@72.34.3368.1406" timestamp="1605431913603" />
-    <state x="2062" y="60" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1605448658737">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="2062" y="60" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/72.34.3368.1406@72.34.3368.1406" timestamp="1605448658737" />
-    <state x="314" y="230" width="1201" height="1210" key="find.popup" timestamp="1605772223513">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="314" y="230" width="1201" height="1210" key="find.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605772223513" />
-    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup" timestamp="1605773032581">
-      <screen x="72" y="34" width="3368" height="1406" />
-    </state>
-    <state x="1856" y="34" width="1470" height="2556" key="search.everywhere.popup/72.34.3368.1406@72.34.3368.1406" timestamp="1605773032581" />
   </component>
 </project>

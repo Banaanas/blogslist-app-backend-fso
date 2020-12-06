@@ -9,6 +9,7 @@ import "express-async-errors"; // Handle all the try/catch
 import contactsRouter from "./controllers/blogs-router.js";
 import usersRouter from "./controllers/users-router.js";
 import loginRouter from "./controllers/login-router.js";
+import testingRouter from "./controllers/testing-router.js";
 
 // Utils
 import config from "./utils/config.js";
@@ -54,12 +55,8 @@ app.use(express.json());
 
 if (process.env.NODE_ENV === "test") {
   // testingRoute - Import - Function
-  const testingRouter = async () => {
-    await app.use("/api/testing", () => {
-      import("../controllers/testing-router.js");
-    });
-  };
-  testingRouter();
+  app.use("/api/testing", testingRouter);
+  console.log("Testing Route Established");
 }
 
 // Extract token and put it as request property
