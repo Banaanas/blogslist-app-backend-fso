@@ -4,6 +4,10 @@ POST http://localhost:3001/api/testing/reset
 
 POST http://localhost:3001/api/testing/reset
 
+###
+
+POST http://localhost:3001/api/testing/reset
+
 <> 2020-11-19T035740.404.json
 
 ###
@@ -357,20 +361,6 @@ Content-Type: application/json
 }
 
 <> 2020-11-14T093601.401.json
-
-###
-
-POST http://localhost:3001/api/users
-Content-Type: application/json
-
-{
-  "username": "Cyrilolo",
-  "name": "Cyril Bleu",
-  "password": "sucredorge",
-  "passwordValidation": "sucredoaaarge"
-}
-
-<> 2020-11-14T093525.401.json
 
 ###
 

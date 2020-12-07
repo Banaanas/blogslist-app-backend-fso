@@ -5,9 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server.js",
-    "logs:prod": "heroku logs --tail",
     "start": "cross-env NODE_ENV=production node server.js",
-    "start:test": "cross-env NODE_ENV=test node --experimental-vm-modules  server.js",
+    "start:test": "cross-env NODE_ENV=test node --experimental-vm-modules server.js",
     "test": "cross-env NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand"
   },
   "husky": {
