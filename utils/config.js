@@ -3,6 +3,10 @@ import dotenv from "dotenv";
 // Loads environment variables from .env file
 dotenv.config();
 
+// Check if Environment Variables are available
+// Especially for Production
+console.log(dotenv.config());
+
 // Set PORT
 const { PORT } = process.env;
 

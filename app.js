@@ -3,6 +3,8 @@ import mongoose from "mongoose";
 import cors from "cors";
 import morgan from "morgan";
 import "express-async-errors"; // Handle all the try/catch
+import path from "path";
+
 // Next() is not need anymore thanks to "express-async-errors" library;
 // Handle all the try/catch
 // Routers
@@ -66,6 +68,36 @@ app.use(middlewares.tokenExtractor);
 app.use("/api/blogs", contactsRouter);
 app.use("/api/users", usersRouter);
 app.use("/api/login", loginRouter);
+
+// Catch All - Redirect All Requests to index.html
+app.get("/*", (req, res) => {
+  const __dirname = path.resolve(
+    path.dirname(decodeURI(new URL(import.meta.url).pathname)),
+  );
+
+  if (process.env.NODE_ENV === "production") {
+    console.log("holalalala");
+    res.sendFile(path.join(__dirname, "build", "index.html"));
+  } else {
+    app.use(middlewares.unknownEndpoint);
+    app.use(middlewares.errorHandler);
+  }
+});
+
+/*
+// Catch-All - Redirect All Requests to index.html
+// https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing
+if (
+  process.env.NODE_ENV === "production" ||
+  process.env.NODE_ENV === "development"
+) {
+  const __dirname = path.resolve(
+    path.dirname(decodeURI(new URL(import.meta.url).pathname)),
+  );
+  app.get("/!*", (req, res) => {
+    res.sendFile(path.join(__dirname, "build", "index.html"));
+  });
+} */
 
 app.use(middlewares.unknownEndpoint);
 app.use(middlewares.errorHandler);
