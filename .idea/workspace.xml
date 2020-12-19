@@ -23,11 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093525.401.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <disabled>
@@ -126,7 +126,7 @@
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -1101,16 +1101,16 @@
       <item itemvalue="HTTP Request.testing-requests#1" />
       <item itemvalue="HTTP Request.testing-requests#2" />
       <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
-      <item itemvalue="npm.start" />
       <item itemvalue="npm.dev" />
+      <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.dev" />
-        <item itemvalue="HTTP Request.testing-requests#1" />
-        <item itemvalue="HTTP Request.testing-requests#2" />
-        <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
+        <item itemvalue="HTTP Request.testing-requests#2" />
+        <item itemvalue="HTTP Request.testing-requests#1" />
       </list>
     </recent_temporary>
   </component>
@@ -1201,6 +1201,11 @@
       <workItem from="1607265239515" duration="4053000" />
       <workItem from="1607323387864" duration="4735000" />
       <workItem from="1607353254671" duration="291000" />
+      <workItem from="1608314224366" duration="1288000" />
+      <workItem from="1608364934248" duration="233000" />
+      <workItem from="1608365223934" duration="28000" />
+      <workItem from="1608365573921" duration="360000" />
+      <workItem from="1608365942039" duration="1393000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1272,7 +1277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607264920435</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="General Update">
+      <created>1608316280978</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608316280978</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1304,6 +1316,7 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <ignored-roots>
       <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$/tic-tac-toe-TOP" />
     </ignored-roots>
     <MESSAGE value="First Commit" />
     <MESSAGE value="Http Requests added to .gitignore" />

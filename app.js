@@ -8,7 +8,7 @@ import path from "path";
 // Next() is not need anymore thanks to "express-async-errors" library;
 // Handle all the try/catch
 // Routers
-import contactsRouter from "./controllers/blogs-router.js";
+import blogsRouter from "./controllers/blogs-router.js";
 import usersRouter from "./controllers/users-router.js";
 import loginRouter from "./controllers/login-router.js";
 import testingRouter from "./controllers/testing-router.js";
@@ -65,12 +65,13 @@ if (process.env.NODE_ENV === "test") {
 app.use(middlewares.tokenExtractor);
 
 // Routers
-app.use("/api/blogs", contactsRouter);
+app.use("/api/blogs", blogsRouter);
 app.use("/api/users", usersRouter);
 app.use("/api/login", loginRouter);
 
-// Catch All - Redirect All Requests to index.html
-app.get("/*", (req, res) => {
+// Catch All - Redirect All Requests to index.html - FRONT-END ISSUE
+// https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing
+app.get("/!*", (req, res) => {
   const __dirname = path.resolve(
     path.dirname(decodeURI(new URL(import.meta.url).pathname)),
   );
@@ -83,21 +84,6 @@ app.get("/*", (req, res) => {
     app.use(middlewares.errorHandler);
   }
 });
-
-/*
-// Catch-All - Redirect All Requests to index.html
-// https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing
-if (
-  process.env.NODE_ENV === "production" ||
-  process.env.NODE_ENV === "development"
-) {
-  const __dirname = path.resolve(
-    path.dirname(decodeURI(new URL(import.meta.url).pathname)),
-  );
-  app.get("/!*", (req, res) => {
-    res.sendFile(path.join(__dirname, "build", "index.html"));
-  });
-} */
 
 app.use(middlewares.unknownEndpoint);
 app.use(middlewares.errorHandler);
