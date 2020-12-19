@@ -1,0 +1,37 @@
+### GET ALL USERS - (For example purpose, authentication has not been set for this route)
+
+GET http://localhost:3001/api/users
+Accept: application/json
+
+
+### GET SINGLE USER
+
+GET http://localhost:3001/api/users/5f6390e43ae59d7cb23caeee
+Accept: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsIiwiaWQiOiI1ZjY0YjlkZDc3YTVjMjFiMDY5ZmZlZGQiLCJpYXQiOjE2MDA0MzY3Mjl9.s6T9CJTmszUd6wn_p6rttfXvzJtXu4bPCLqwJ_s2-nY
+
+
+### CREATE USER
+
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+  "username": "Cyrilolo",
+  "name": "Cyril Bleu",
+  "password": "sucredorge",
+  "passwordConfirmation": "sucredorge"
+}
+
+
+### CREATE USER - 2
+
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+  "username": "Cyriloolo",
+  "name": "Cyrilo Papaya",
+  "password": "arcoiris",
+  "passwordConfirmation": "arcoiris"
+}

@@ -69,20 +69,13 @@ app.use("/api/blogs", blogsRouter);
 app.use("/api/users", usersRouter);
 app.use("/api/login", loginRouter);
 
-// Catch All - Redirect All Requests to index.html - FRONT-END ISSUE
+// Catch All - Redirect All Requests to index.html - FRONT-END - PRODUCTION (build Folder)
 // https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing
-app.get("/!*", (req, res) => {
-  const __dirname = path.resolve(
-    path.dirname(decodeURI(new URL(import.meta.url).pathname)),
-  );
-
-  if (process.env.NODE_ENV === "production") {
-    console.log("holalalala");
-    res.sendFile(path.join(__dirname, "build", "index.html"));
-  } else {
-    app.use(middlewares.unknownEndpoint);
-    app.use(middlewares.errorHandler);
-  }
+const __dirname = path.resolve(
+  path.dirname(decodeURI(new URL(import.meta.url).pathname)),
+);
+app.get("/*", (req, res) => {
+  res.sendFile(path.join(__dirname, "build", "index.html"));
 });
 
 app.use(middlewares.unknownEndpoint);

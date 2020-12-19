@@ -1,0 +1,36 @@
+
+### GET ALL BLOGS - (For example purpose, authentication has not been set for this route)
+GET http://localhost:3001/api/blogs
+
+### POST BLOG
+
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+// Authorization: bearer $SECRETBEARER
+
+{
+  "title": "My Green Adventure",
+  "author": "Cyrilo",
+  "url": "https://sucredorge.fr",
+  "likes": 20
+}
+
+### UPDATE BLOG
+
+PUT http://localhost:3001/api/blogs/5f64c8fd89bf6032db18a4b2
+Content-Type: application/json
+// Authorization: bearer $SECRETBEARER
+
+{
+  "title": "My wonderful UPDATED Adventure",
+  "author": "Cyril Bleu",
+  "url": "https://sucredorge.fr",
+  "likes": 100
+}
+
+
+### DELETE BLOG
+
+DELETE http://localhost:3001/api/blogs/5f64c89489bf6032db18a4b1
+Content-Type: application/json
+// Authorization: bearer $SECRETBEARER

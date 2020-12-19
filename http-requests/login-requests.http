@@ -1,0 +1,19 @@
+### LOGIN
+
+POST http://localhost:3001/api/login
+Content-Type: application/json
+
+{
+  "username": "Cyril",
+  "password": "sucredorge"
+}
+
+### LOGIN
+
+POST http://localhost:3001/api/login
+Content-Type: application/json
+
+{
+  "username": "Cyrilo",
+  "password": "arcoiris"
+}

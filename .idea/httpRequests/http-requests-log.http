@@ -1,3 +1,21 @@
+GET http://localhost:3001/api/gino
+
+<> 2020-12-19T101703.404.json
+
+###
+
+GET http://localhost:3001/api/gino
+
+<> 2020-12-19T101647.404.json
+
+###
+
+GET http://localhost:3001/api/gino
+
+<> 2020-12-19T101435.404.json
+
+###
+
 POST http://localhost:3001/api/testing/reset
 
 ###
@@ -321,46 +339,6 @@ Content-Type: application/json
   "password": "sucredoaaarge",
   "passwordValidation": "sucredoaaarge"
 }
-
-###
-
-POST http://localhost:3001/api/users
-Content-Type: application/json
-
-{
-  "username": "Cyriloolo",
-  "name": "Cyrilo Papaya",
-  "password": "arcoirias",
-  "passwordValidation": "arcoirias"
-}
-
-###
-
-POST http://localhost:3001/api/users
-Content-Type: application/json
-
-{
-  "username": "Cyriloolo",
-  "name": "Cyrilo Papaya",
-  "password": "arcoiris",
-  "passwordValidation": "arcoirias"
-}
-
-<> 2020-11-14T093604.401.json
-
-###
-
-POST http://localhost:3001/api/users
-Content-Type: application/json
-
-{
-  "username": "Cyriloolo",
-  "name": "Cyrilo Papaya",
-  "password": "arcoiris",
-  "passwordValidation": "arcoirias"
-}
-
-<> 2020-11-14T093601.401.json
 
 ###
 

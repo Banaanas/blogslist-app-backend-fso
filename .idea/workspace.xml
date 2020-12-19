@@ -23,12 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-12-19T101435.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-12-19T101647.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-12-19T101703.404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-requests/blogs-requests.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-requests/login-requests.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-requests/testing-requests.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-requests/users-requests.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093601.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093604.401.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <disabled>
       <disabled_changelists>
@@ -141,6 +149,13 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3001/api/gino" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:3001/api/testing/reset" />
@@ -1033,31 +1048,11 @@
           <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New AZZ&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="PUT" />
-          <option name="urlBase" value="http://localhost:3001/api/blogs/5f570334301cd7190bcb4b14" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Authorization" />
-                <option name="value" value="bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkN5cmlsbyIsImlkIjoiNWY1NzAyNmMzMDFjZDcxOTBiY2I0YjExIiwiaWF0IjoxNTk5NTYxMzY0fQ.fsnIy9WcxJdzb9-WB3hicNqMm8aMJBj3Nj5GbEPdt9A" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&#10;  &quot;title&quot;: &quot;New GIBOR&quot;,&#10;  &quot;author&quot;: &quot;Michael Chan&quot;,&#10;  &quot;url&quot;: &quot;https://reactpatterns.com/&quot;,&#10;  &quot;likes&quot;: 7&#10;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.testing-requests#1">
-    <configuration name="testing-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/testing-requests.http" runType="Run single request">
+  <component name="RunManager" selected="HTTP Request.blogs-requests#5">
+    <configuration name="blogs-requests#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/blogs-requests.http" index="5" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="testing-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/testing-requests.http" index="2" runType="Run single request">
@@ -1098,19 +1093,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="HTTP Request.testing-requests#1" />
       <item itemvalue="HTTP Request.testing-requests#2" />
+      <item itemvalue="HTTP Request.blogs-requests#5" />
       <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
       <item itemvalue="npm.dev" />
       <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.blogs-requests#5" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.dev" />
         <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
         <item itemvalue="HTTP Request.testing-requests#2" />
-        <item itemvalue="HTTP Request.testing-requests#1" />
       </list>
     </recent_temporary>
   </component>
@@ -1206,6 +1201,11 @@
       <workItem from="1608365223934" duration="28000" />
       <workItem from="1608365573921" duration="360000" />
       <workItem from="1608365942039" duration="1393000" />
+      <workItem from="1608367346879" duration="2336000" />
+      <workItem from="1608390893379" duration="271000" />
+      <workItem from="1608403136478" duration="5288000" />
+      <workItem from="1608409989098" duration="366000" />
+      <workItem from="1608410365493" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1284,7 +1284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608316280978</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1608367374213</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608367374213</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
