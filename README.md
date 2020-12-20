@@ -25,7 +25,7 @@
 <br/>
 <p align="center">
     <a href="https://blogslist-app.cyrilo.app/">
-        <img src="./src/assets/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
+        <img src="./assets/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
 
@@ -61,7 +61,7 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 
 <p align="center">
   <a href="https://blogslist-app.cyrilo.app/">
-    <img src="src/assets/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
+    <img src="./assets/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
   </a>
 </p>
 
@@ -80,7 +80,7 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 
 <p align="center">
   <a href="https://blogslist-app.cyrilo.app/">
-    <img src="src/assets/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
+    <img src="./assets/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
 
