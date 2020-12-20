@@ -18,6 +18,7 @@ const userSchema = new mongoose.Schema({
     maxlength: 15,
     required: true,
     unique: true, // uniqueValidator Library
+    uniqueCaseInsensitive: true, // uniqueValidator works for ABC = abc = AbC = aBc
   },
   passwordHash: {
     type: String,
