@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="" />
     <disabled>
       <disabled_changelists>
         <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="feat: Add .huskyrc">
@@ -1197,6 +1195,7 @@
       <workItem from="1608410808699" duration="52000" />
       <workItem from="1608411029733" duration="59000" />
       <workItem from="1608443936156" duration="7000" />
+      <workItem from="1608443987885" duration="3093000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1296,7 +1295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608411077201</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add uniqueCaseInsensitive to User's Schema (username)">
+      <created>1608453450416</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608453450416</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
