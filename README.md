@@ -122,10 +122,6 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 - Node.js
 - NPM - Node Package Manager
 
-```sh
-npm install npm@latest -g
-```
-
 #### Installation
 
 1 - Clone the Project's repository
