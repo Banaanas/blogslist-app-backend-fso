@@ -124,7 +124,7 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 
 #### Installation
 
-1 - Clone the Project's repository
+1 - Clone the Project's repositories
 
 ```sh
 git https://github.com/Banaanas/blogslist-app-frontend-fso.git
