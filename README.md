@@ -40,6 +40,7 @@
 - Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-fso](https://github.com/Banaanas/blogslist-app-frontend-fso)
 - Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-fso](https://github.com/Banaanas/blogslist-app-backend-fso)
 
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -53,7 +54,8 @@
 - [License](#license)
 - [Contact](#contact)
 
-<!-- TABLE OF CONTENTS -->
+
+<!-- ABOUT THE PROJECT -->
 
 ## About the Project
 
@@ -64,6 +66,9 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
     <img src="./assets/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
   </a>
 </p>
+
+
+<!-- PRINCIPAL FEATURES -->
 
 #### Principal Features
 
@@ -83,6 +88,9 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
     <img src="./assets/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
+
+
+<!-- BUILT WITH -->
 
 #### Built With
 
@@ -112,6 +120,7 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 - [Redux](https://redux.js.org/)
 - [stylelint](https://stylelint.io/)
 - [Yup](https://github.com/jquense/yup)
+
 
 <!-- GETTING STARTED -->
 
@@ -157,6 +166,7 @@ npm run build
 
 Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for more information.
 
+
 <!-- CONTACT -->
 
 ## Contact
@@ -167,11 +177,13 @@ Project Links :
 - Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-fso](https://github.com/Banaanas/blogslist-app-frontend-fso)
 - Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-fso](https://github.com/Banaanas/blogslist-app-backend-fso)
 
+
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
 - [Full Stack Open](https://fullstackopen.com/en/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
