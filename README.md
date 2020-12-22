@@ -37,8 +37,8 @@
     <a href="https://blogslist-app.cyrilo.app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
-- Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-fso](https://github.com/Banaanas/blogslist-app-frontend-fso)
-- Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-fso](https://github.com/Banaanas/blogslist-app-backend-fso)
+- Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-FSO](https://github.com/Banaanas/blogslist-app-frontend-FSO)
+- Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-FSO](https://github.com/Banaanas/blogslist-app-backend-FSO)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -136,10 +136,10 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 1 - Clone the Project's repositories
 
 ```sh
-git https://github.com/Banaanas/blogslist-app-frontend-fso.git
+git https://github.com/Banaanas/blogslist-app-frontend-FSO.git
 ```
 ```sh
-git https://github.com/Banaanas/blogslist-app-backend-fso.git
+git https://github.com/Banaanas/blogslist-app-backend-FSO.git
 ```
 
 2 - Install NPM Packages / Dependencies
@@ -174,8 +174,8 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 Cyrilo - [Personal Website](https://cyrilo.dev) - [Mail](mailto:cyrilo.dev@gmail.com)
 
 Project Links :
-- Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-fso](https://github.com/Banaanas/blogslist-app-frontend-fso)
-- Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-fso](https://github.com/Banaanas/blogslist-app-backend-fso)
+- Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-FSO](https://github.com/Banaanas/blogslist-app-frontend-FSO)
+- Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-FSO](https://github.com/Banaanas/blogslist-app-backend-FSO)
 
 
 <!-- ACKNOWLEDGEMENTS -->
