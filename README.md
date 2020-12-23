@@ -37,8 +37,8 @@
     <a href="https://blogslist-app.cyrilo.app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
-- Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-FSO](https://github.com/Banaanas/blogslist-app-frontend-FSO)
-- Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-FSO](https://github.com/Banaanas/blogslist-app-backend-FSO)
+- [Front-End Repository](https://github.com/Banaanas/blogslist-app-frontend-FSO) - 💻
+- [Back-End Repository](https://github.com/Banaanas/blogslist-app-backend-FSO) - 🤖
 
 
 <!-- TABLE OF CONTENTS -->
@@ -173,9 +173,8 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 Cyrilo - [Personal Website](https://cyrilo.dev) - [Mail](mailto:cyrilo.dev@gmail.com)
 
-Project Links :
-- Front-End 💻 [https://github.com/Banaanas/blogslist-app-frontend-FSO](https://github.com/Banaanas/blogslist-app-frontend-FSO)
-- Back-End 🤖 [https://github.com/Banaanas/blogslist-app-backend-FSO](https://github.com/Banaanas/blogslist-app-backend-FSO)
+- [Front-End Repository](https://github.com/Banaanas/blogslist-app-frontend-FSO) - 💻
+- [Back-End Repository](https://github.com/Banaanas/blogslist-app-backend-FSO) - 🤖
 
 
 <!-- ACKNOWLEDGEMENTS -->
