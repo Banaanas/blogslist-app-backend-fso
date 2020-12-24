@@ -4,9 +4,9 @@
     "es2020": true,
     "jest": true
   },
-  "extends": ["airbnb-base"],
+  "extends": ["airbnb-base", "plugin:node/recommended"],
   "parserOptions": {
-    "ecmaVersion": 11,
+    "ecmaVersion": 2020,
     "sourceType": "module"
   },
   "rules": {

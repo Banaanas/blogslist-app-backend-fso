@@ -37,7 +37,7 @@
     "morgan": "~1.10.0"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
+    "eslint": "^7.16.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-node": "^11.1.0",
     "husky": "^4.3.6",
