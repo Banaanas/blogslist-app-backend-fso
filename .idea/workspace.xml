@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="" />
     <disabled>
       <disabled_changelists>
         <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="feat: Add .huskyrc">
@@ -1204,6 +1201,7 @@
       <workItem from="1608670135174" duration="245000" />
       <workItem from="1609065218756" duration="25000" />
       <workItem from="1612267181668" duration="8000" />
+      <workItem from="1613983770489" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1331,7 +1329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609065234100</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update Husky">
+      <created>1613983787014</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1613983787014</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
