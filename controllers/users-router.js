@@ -58,7 +58,7 @@ usersRouter.post("/", async (req, res) => {
   const { body } = req;
 
   // Because password.length !== passwordHash.length, password.length should be validated
-  // in the controller
+  // in the Controller (and not the Model)
   if (body.password.length < 5) {
     return res.status(401).json({
       error: "Password is too short",

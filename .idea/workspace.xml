@@ -24,6 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/login-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/login-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/users-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <disabled>
       <disabled_changelists>
@@ -1047,7 +1051,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.blogs-requests#5">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="blogs-requests#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http-requests/blogs-requests.http" index="5" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -1097,9 +1101,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="HTTP Request.blogs-requests#5" />
         <item itemvalue="npm.start" />
-        <item itemvalue="npm.dev" />
         <item itemvalue="Jest.Supertest Library Function - Single User Request.if get Single User with ALL Blogs array inside" />
         <item itemvalue="HTTP Request.testing-requests#2" />
       </list>
@@ -1214,6 +1218,8 @@
       <workItem from="1613983770489" duration="25000" />
       <workItem from="1615627360716" duration="41000" />
       <workItem from="1615629198039" duration="777000" />
+      <workItem from="1617699511501" duration="145000" />
+      <workItem from="1617699668355" duration="8042000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>

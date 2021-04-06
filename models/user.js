@@ -23,6 +23,8 @@ const userSchema = new mongoose.Schema({
   passwordHash: {
     type: String,
     required: true,
+    // Because password.length !== passwordHash.length, password.length should be validated
+    // in the Controller (and not the Model - here)
   },
   //  IDs of the blogs are stored within the User document as an array of Mongo IDs
   blogs: [
