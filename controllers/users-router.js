@@ -12,7 +12,7 @@ const usersRouter = express.Router();
 
 // ALL USERS - (For example purpose, authentication has not been set for this route)
 usersRouter.get("/", async (req, res) => {
-  // populate()  method defines that the ids referencing Blog objects in the Blogs field of
+  // populate() method defines that the ids referencing Blog objects in the Blogs field of
   // the User document will be replaced by the referenced Blog documents
   const users = await User.find({}).populate("blogs", {
     title: 1,
