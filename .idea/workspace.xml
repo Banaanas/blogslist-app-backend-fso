@@ -24,63 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/login-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/login-router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/users-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users-router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
-    <disabled>
-      <disabled_changelists>
-        <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="feat: Add .huskyrc">
-          <change beforePath="$PROJECT_DIR$/.huskyrc" beforeDir="false" afterPath="$PROJECT_DIR$/.huskyrc" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034505.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034639.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034654.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034717.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T034847.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044749.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044856.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T044934.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-18T075235.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-09-19T085622.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-10-07T091047.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T084031.500.rt" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085215.500.rt" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085259.400.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085405.400.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T085429.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-02T091410.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T081302.200.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T082432.400.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092146.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092206.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092209.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092321.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092407.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092412.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092431.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092433.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T092441.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093119.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093229.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093234.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093407.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093410.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093501.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2020-11-14T093517.401.json" beforeDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/utils/tests/blog_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/blog_api.test.js" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/utils/tests/blogs-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/unit-tests/blogs-functions.js" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/utils/tests/blogs-functions.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/unit-tests/blogs-functions.test.js" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/utils/tests/helpers-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/helpers-functions.js" afterDir="false" />
-          <change beforePath="$PROJECT_DIR$/utils/tests/user_api.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tests/integration-tests/user_api.test.js" afterDir="false" />
-        </list>
-      </disabled_changelists>
-      <disabled_trackers />
-    </disabled>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,12 +60,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.37" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -134,7 +80,7 @@
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -1219,7 +1165,10 @@
       <workItem from="1615627360716" duration="41000" />
       <workItem from="1615629198039" duration="777000" />
       <workItem from="1617699511501" duration="145000" />
-      <workItem from="1617699668355" duration="8042000" />
+      <workItem from="1617699668355" duration="8164000" />
+      <workItem from="1617724462318" duration="88000" />
+      <workItem from="1617724560935" duration="1968000" />
+      <workItem from="1617777397302" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1354,7 +1303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613983787014</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ncu -u">
+      <created>1617724361209</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1617724361209</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
