@@ -68,9 +68,10 @@ blogsRouter.post("/", async (req, res, next) => {
   // Save newBlog to DB
   const savedBlog = await newBlog.save();
 
-  // Concat newBlog into user's blogs array
+  // Add newBlog (id) into user's blogs (id) array
   // eslint-disable-next-line no-underscore-dangle
-  user.blogs = user.blogs.concat(savedBlog._id);
+  user.blogs = [...user.blogs, savedBlog._id];
+  console.log(user.blogs);
   await user.save();
 
   res.json(savedBlog);
