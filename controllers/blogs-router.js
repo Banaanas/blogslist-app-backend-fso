@@ -71,7 +71,6 @@ blogsRouter.post("/", async (req, res, next) => {
   // Add newBlog (id) into user's blogs (id) array
   // eslint-disable-next-line no-underscore-dangle
   user.blogs = [...user.blogs, savedBlog._id];
-  console.log(user.blogs);
   await user.save();
 
   res.json(savedBlog);
@@ -109,7 +108,7 @@ blogsRouter.delete("/:id", async (req, res) => {
   // Delete Blog
   await Blog.findByIdAndDelete(req.params.id);
 
-  //* * REMOVE BLOG ID FROM USER COLLECTION * *//
+  //* * REMOVE BLOG ID FROM USER DOCUMENT * *//
 
   const updatedUser = await User.findById(blogUserId);
   const updatedUserBlogsArr = updatedUser.blogs.filter(
