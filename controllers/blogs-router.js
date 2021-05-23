@@ -159,6 +159,8 @@ blogsRouter.put("/:id", async (req, res) => {
   // If decryptedToken.id DOES correspond to blogUserId, UPDATE Blog-to-update
   const updatedBlog = await Blog.findByIdAndUpdate(req.params.id, newBlog, {
     new: true,
+    // findByIdAndUpdate needs runValidators: true to apply Mongoose candidateSchema
+    runValidators: true,
   });
   res.json(updatedBlog);
 });
@@ -178,6 +180,8 @@ blogsRouter.put("/like/:id", async (req, res) => {
   // If decryptedToken.id DOES correspond to blogUserId, UPDATE Blog-to-update
   const updatedBlog = await Blog.findByIdAndUpdate(req.params.id, newBlog, {
     new: true,
+    // findByIdAndUpdate needs runValidators: true to apply Mongoose candidateSchema
+    runValidators: true,
   });
 
   // If No Blog Found, RETURN 403
