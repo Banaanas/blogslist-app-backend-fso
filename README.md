@@ -27,7 +27,7 @@
 <br/>
 <p align="center">
     <a href="https://blogslist-app.cyrilo.app/">
-        <img src="./assets/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
+        <img src="./src/assets/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
 
@@ -48,11 +48,11 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-    - [Principal Features](#principal-features)
-    - [Built With](#built-with)
+  - [Principal Features](#principal-features)
+  - [Built With](#built-with)
 - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 - [License](#license)
 - [Contact](#contact)
 
@@ -65,7 +65,7 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 
 <p align="center">
   <a href="https://blogslist-app.cyrilo.app/">
-    <img src="./assets/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
+    <img src="./src/assets/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="350">
   </a>
 </p>
 
@@ -83,11 +83,13 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 - Blog Details ;
 - All Users List ;
 - Great User Interface ;
+- Page Transitions ;
+- Multi-Tab Login / Logout ;
 - Responsive Design.
 
 <p align="center">
   <a href="https://blogslist-app.cyrilo.app/">
-    <img src="./assets/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
+    <img src="./src/assets/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
 
@@ -96,8 +98,8 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 
 #### Built With
 
-- [Axios](https://github.com/axios/axios)
-- [Bcrypt](https://github.com/kelektiv/node.bcrypt.js/)
+- [axios](https://github.com/axios/axios)
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js/)
 - [CSS3](https://www.w3.org/Style/CSS/Overview.html)
 - [Chakra UI](https://chakra-ui.com/)
 - [Cypress](https://www.cypress.io/)
@@ -137,9 +139,12 @@ BlogsList Application achieved as part of <a href="https://fullstackopen.com/en/
 
 1 - Clone the Project's repositories
 
+- Front End
 ```sh
 git https://github.com/Banaanas/blogslist-app-frontend-FSO.git
 ```
+
+- Back End
 ```sh
 git https://github.com/Banaanas/blogslist-app-backend-FSO.git
 ```
@@ -152,8 +157,14 @@ npm install
 
 3 - Development Server
 
+- Front End
 ```sh
 npm run start
+```
+
+- Back End
+```sh
+npm run dev
 ```
 
 4 - Production build
@@ -161,6 +172,7 @@ npm run start
 ```sh
 npm run build
 ```
+
 
 <!-- LICENSE -->
 
@@ -183,7 +195,6 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 ## Project Links
 - [Front-End Repository](https://github.com/Banaanas/blogslist-app-frontend-FSO) - 💻
 - [Back-End Repository](https://github.com/Banaanas/blogslist-app-backend-FSO) - 🤖
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
