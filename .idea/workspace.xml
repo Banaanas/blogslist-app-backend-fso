@@ -22,22 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="package.json">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.aa73b543.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.aa73b543.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.aa73b543.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.c0c62ff5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.c0c62ff5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.26a7de93.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.26a7de93.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.fa8928bb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.fa8928bb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="Readme">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1201,6 +1187,7 @@
       <workItem from="1622986483772" duration="1319000" />
       <workItem from="1623006174998" duration="1099000" />
       <workItem from="1624050927944" duration="90000" />
+      <workItem from="1624083585819" duration="366000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1412,7 +1399,28 @@
       <option name="project" value="LOCAL" />
       <updated>1624051009900</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="package.json">
+      <created>1624083689594</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1624083689595</updated>
+    </task>
+    <task id="LOCAL-00032" summary="package.json">
+      <created>1624083709111</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1624083709111</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Readme">
+      <created>1624083878327</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1624083878327</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1459,6 +1467,7 @@
     <MESSAGE value="Package.json" />
     <MESSAGE value="findByIdAndUpdate runValidators" />
     <MESSAGE value="package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="package.json" />
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
   </component>
 </project>
