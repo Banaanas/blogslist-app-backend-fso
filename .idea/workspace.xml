@@ -22,17 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="Package.json">
+    <list default="true" id="dbfba4a3-7db2-4ff2-8110-d21e09aad401" name="Default Changelist" comment="package.json">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.4c367875.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.4c367875.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/2.aa73b543.chunk.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/2.aa73b543.chunk.js.LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/2.aa73b543.chunk.js.map" beforeDir="false" />
@@ -42,9 +37,6 @@
       <change beforePath="$PROJECT_DIR$/build/static/js/main.26a7de93.chunk.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.fa8928bb.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.fa8928bb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/blogslist-logo.fc361ecb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/blogs-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/blogs-router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/users-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users-router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,17 +83,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.14.41" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
@@ -1201,6 +1195,12 @@
       <workItem from="1618737708402" duration="77000" />
       <workItem from="1621176887553" duration="48000" />
       <workItem from="1621789680674" duration="17000" />
+      <workItem from="1621789719830" duration="184000" />
+      <workItem from="1621796757905" duration="348000" />
+      <workItem from="1622967227428" duration="1166000" />
+      <workItem from="1622986483772" duration="1319000" />
+      <workItem from="1623006174998" duration="1099000" />
+      <workItem from="1624050927944" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1605430616455</created>
@@ -1391,7 +1391,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621176920097</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="findByIdAndUpdate runValidators">
+      <created>1621789801231</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1621789801231</updated>
+    </task>
+    <task id="LOCAL-00029" summary="package.json">
+      <created>1621789887329</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1621789887330</updated>
+    </task>
+    <task id="LOCAL-00030" summary="package.json">
+      <created>1624051009900</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1624051009900</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1436,6 +1457,8 @@
     <MESSAGE value="Refactoring Login-Router" />
     <MESSAGE value="Refactoring User-Router" />
     <MESSAGE value="Package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Package.json" />
+    <MESSAGE value="findByIdAndUpdate runValidators" />
+    <MESSAGE value="package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="package.json" />
   </component>
 </project>
