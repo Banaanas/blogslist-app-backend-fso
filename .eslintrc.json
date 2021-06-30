@@ -4,31 +4,29 @@
     "es2020": true,
     "jest": true
   },
-  "extends": ["airbnb-base", "plugin:node/recommended"],
+  "extends": [
+    "airbnb-base",
+    "plugin:node/recommended",
+    "plugin:prettier/recommended",
+    "prettier"
+  ],
   "parserOptions": {
     "ecmaVersion": 2020,
     "sourceType": "module"
   },
   "rules": {
-    "quotes": [
-      1,
-      "double",
-      {
-        "avoidEscape": true
-      }
-    ],
-    // Authorize double-quote use
+    "prettier/prettier": "error", // https://github.com/prettier/eslint-plugin-prettier
     "comma-dangle": [
       "error",
       {
+        // Comma-dangle for all MULTILINE Arrays, Objects
         "arrays": "always-multiline",
-        // Comma-dangle for all MULTILINE arrays, objects,
         "objects": "always-multiline",
-        // imports and exports.
+        // Comma-dangle for all MULTILINE Imports, Exports
         "imports": "always-multiline",
         "exports": "always-multiline",
-        "functions": "only-multiline"
         // Comma-dangle for functions only when the developer decides
+        "functions": "only-multiline"
       }
     ],
     "no-param-reassign": [

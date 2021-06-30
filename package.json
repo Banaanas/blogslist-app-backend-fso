@@ -38,6 +38,7 @@
     "crypto-random-string": "^4.0.0",
     "eslint": "^7.28.0",
     "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-node": "^11.1.0",
     "husky": "^6.0.0",
     "jest": "^27.0.4",
