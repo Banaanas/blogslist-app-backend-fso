@@ -29,12 +29,6 @@
         "functions": "only-multiline"
       }
     ],
-    "no-param-reassign": [
-      2,
-      {
-        "props": false
-      }
-    ],
     "no-plusplus": [
       2,
       {
