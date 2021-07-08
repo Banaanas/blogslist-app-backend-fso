@@ -167,10 +167,16 @@ npm run start
 npm run dev
 ```
 
-4 - Production build
+4 - Production
 
+- Front End
 ```sh
 npm run build
+```
+
+- Back End
+```sh
+npm run start
 ```
 
 
